@@ -1,0 +1,16 @@
+{
+  "name": "recipesbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "covid19-api": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
